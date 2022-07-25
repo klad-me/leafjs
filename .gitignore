@@ -1,0 +1,4 @@
+/.dep
+/.obj
+/bin/leaf
+/bin/*.js
